@@ -6,7 +6,7 @@
 
 
 # 📘 جزوهٔ درس بازیابی اطلاعات
-### Information Retrieval – University Textbook
+### Information Retrieval – University Textbook 
 
 **نسخه ۱.۰**  
 **تاریخ انتشار:** May - 2026  
