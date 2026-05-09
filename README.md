@@ -1,7 +1,7 @@
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 # IR-Textbook
-📘 This repository contains the complete textbook for the Information Retrieval course, authored by **Hamid Namjoo, Amirhossein Hemmati, and Ali Mojahed.** The work is licensed under CC BY-NC-ND 4.0 – any commercial use, modification, or redistribution without attribution is strictly prohibited.
+📘 This repository contains the complete textbook for the Information Retrieval course, authored by **Hamid Namjoo, Amirhossein Hemmati, and Ali Mojahed.** The work is licensed under CC BY-NC-ND 4.0 – any commercial use, modification, or redistribution without attribution is strictly prohibited. 
 
 
 
