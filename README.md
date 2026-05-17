@@ -122,11 +122,11 @@
 اگر از این جزوه در پژوهش، تدریس یا یادگیری خود استفاده می‌کنید، لطفاً به‌صورت زیر استناد دهید:
 
 **استناد فارسی:**
-> نامجو، ح.، همتی، ا.، و مجاهد، ع. (2026). *جزوهٔ کامل درس بازیابی اطلاعات*. دانشگاه آزاد — واحد شیراز.  
+> نامجو، ح.، همتی، ا.، و مجاهد، ع. (2026). *textbook کامل درس بازیابی اطلاعات*.
 > موجود در: https://github.com/hrnrxb/IR-Textbook
 
 **استناد انگلیسی (APA):**
-> Namjoo, H., Hemmati, A., & Mojahed, A. (2026). *Information Retrieval: Complete Course Textbook*. Azad University of Shiraz. Available at: https://github.com/hrnrxb/IR-Textbook
+> Namjoo, H., Hemmati, A., & Mojahed, A. (2026). *Information Retrieval: Complete Course Textbook*. Available at: https://github.com/hrnrxb/IR-Textbook
 
 ---
 
